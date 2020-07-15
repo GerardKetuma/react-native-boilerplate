@@ -1,12 +1,10 @@
 {
-  "name": "chatApp2",
-  "displayName": "chatApp2",
+  "name": "reactNativeBoilerPlate",
+  "displayName": "reactNativeBoilerPlate",
   "expo": {
-    "name": "chatApp2",
-    "slug": "chatApp2",
+    "name": "reactNativeBoilerPlate",
+    "slug": "reactNativeBoilerPlate",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "assetBundlePatterns": ["**/*"]
   }
 }
